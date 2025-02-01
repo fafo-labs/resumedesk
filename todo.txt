@@ -1,0 +1,22 @@
+Client Layer
+  - The style of the rendered reusme
+  - React Components Generate Data
+
+Render Layer
+  - Pdf Renderer consumes data
+
+[x] ability to add single date
+[x] change technical skills to additional skills
+  [x] fix bug with technical skills section
+[x] add a control bar
+[x] add button to print Pdf
+[x] add auth
+[x] add payments webhook
+[x] setup drizzle
+[x] add resume data schema
+[x] row level security
+[] chargeback prevention
+[x] add more than one bullet point
+[] remove adding anchor tag in linktext util
+
+[] create paddle customer on signup
