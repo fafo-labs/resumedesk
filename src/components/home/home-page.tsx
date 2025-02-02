@@ -6,6 +6,7 @@ import Header from '@/components/home/header/header';
 import { HeroSection } from '@/components/home/hero-section/hero-section';
 import { Footer } from '@/components/home/footer/footer';
 import { HomePageBackground } from '../gradients/home-page-background';
+import Features from './features/features';
 
 export function HomePage() {
   // const supabase = createClient();
@@ -17,6 +18,7 @@ export function HomePage() {
       <HomePageBackground />
       <Header />
       <HeroSection />
+      <Features />
       {/* This project was meant to be a paid product with AI features. You'll find signs of pricing setup all around the codebase. */}
       {/* <Pricing country={country} /> */}
       <Footer />
